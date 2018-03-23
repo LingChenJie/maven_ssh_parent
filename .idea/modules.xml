@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maven_ssh_dao/maven_ssh_dao.iml" filepath="$PROJECT_DIR$/maven_ssh_dao/maven_ssh_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssh_parent.iml" filepath="$PROJECT_DIR$/maven_ssh_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssh_service/maven_ssh_service.iml" filepath="$PROJECT_DIR$/maven_ssh_service/maven_ssh_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_ssh_web/maven_ssh_web.iml" filepath="$PROJECT_DIR$/maven_ssh_web/maven_ssh_web.iml" />
+    </modules>
+  </component>
+</project>
